@@ -23,7 +23,3 @@ for future reference.
 - **Frontend**: JavaScript (`chatbox.js`), HTML, CSS  
 - **AI/ML**: Integration with a Large Language Model (LLM)  
 - **Database**: MySQL
-   - Include API documentation if applicable
-   - Add screenshots of the chat interface
-
-Would you like me to help you push this to your repository, or make any modifications to the README?
